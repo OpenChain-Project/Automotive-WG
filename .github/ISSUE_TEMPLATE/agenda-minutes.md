@@ -2,7 +2,7 @@
 name: Agenda/Minutes
 about: Describe this issue template's purpose here.
 title: "[Agenda/Minutes]"
-labels: ''
+labels: Agenda/Minutes
 assignees: ''
 
 ---
