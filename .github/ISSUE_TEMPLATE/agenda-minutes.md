@@ -17,6 +17,7 @@ Time hh:mm (timezone) - See the time in your [timezone](https://everytimezone.co
 - Convener/Scribe – {Name} (Organisation)
 
 ## Antitrust Policy 
+{Should this be added}
 
 ### Recordings
 WG agreed to record all [Meetings](Link to recording). This meeting recording will be available until the next scheduled meeting
@@ -60,3 +61,4 @@ Please *add 'Attended'* to this issue during the meeting to denote attendance.
 - [ ] DD MMM
 
 ## Adjourn
+{Any objections to closing}
