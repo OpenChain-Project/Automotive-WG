@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ----
-## 20yy.mm.dd Agenda/Minutes
+## yyyy.mm.dd Agenda/Minutes
 --- 
 Time hh:mm (timezone) - See the time in your [timezone](https://everytimezone.com/s/a8399b00)
 
@@ -33,32 +33,22 @@ Please *add 'Attended'* to this issue during the meeting to denote attendance.
 ## Introductions
 {round robin of into's}
 
-## Automotive news in 2022
+## Latest news
 > Name of person to be entered here
 
-## IP news relevant to industry
+## Discussion item 1
 > Name of person to be entered here
 
-## Developments in OpenChain
-– Security Assurance Spec enters ISO in October
-– License Compliance Spec entering review in October
-– Company Playbooks (Small, Medium, Big)
-– New conformance support (online, checklists)
+## Discussion item 2
 > Name of person to be entered here
 
-## Discussion: What is missing to support the industry
-> Name of person to be entered here
-
-## Discussion: Make plan to fill industry support gaps
-> Name of person to be entered here
-
-## Discussion: Schedule for next steps
+## Discussion item 3
 > Name of person to be entered here
 
 ## AOB, Q&A 
 
 ## Next Meeting
-- [ ] DD MMM
+- [ ] yyyy.mm.dd hh:mm (timezone)
 
 ## Adjourn
 {Any objections to closing}
