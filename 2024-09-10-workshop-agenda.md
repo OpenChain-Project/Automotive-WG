@@ -1,4 +1,5 @@
-# Agenda for OpenChain Automotive Work Group - Face-to-Face 2024-09-10
+# Agenda for OpenChain Automotive Work Group
+## Face-to-Face 2024-09-10
 
 ## Venue
 
@@ -7,13 +8,13 @@ Bosch IT Campus in Stuttgart Feuerbach
 ## Provisional Schedule
 
 - Software Defined Vehicle / Eclipse SDV [1] 
-  - how will a future software supply chain will look like and what needs to be expected with OTA-updates in the vehicles?
+  - How will a future software supply chain will look like and what needs to be expected with OTA-updates in the vehicles?
 - Catena-X [2] / Eclipse Tractus-X [3]
-  - are there potential synergies with the OpenChain community and is there also a supply chain for data?
+  - Are there potential synergies with the OpenChain community and is there also a supply chain for data?
 - COVESA [4]
-  - what needs to be considered in the automotive software supply chain when vehicles will become more and more connected?
+  - What needs to be considered in the automotive software supply chain when vehicles will become more and more connected?
 - Linux ELISA [5] / SPDX Safety Profile [6]
-  - how can the safety requirements be covered along the automotive software supply chain?
+  - How can the safety requirements be covered along the automotive software supply chain?
 - End-to-end (Open Source) Software Management along the supply chain, tool updates and the need of standardized interfaces
 - News/Update about regulations (EU, US, …) impacting the automotive supply chain and how OpenChain standards can help?
 
@@ -26,11 +27,13 @@ We need help getting the respective speakers for the topics.
 ## Footnotes
 
 [1] https://sdv.eclipse.org/
+
 [2] https://catena-x.net/
+
 [3] https://eclipse-tractusx.github.io/
+
 [4] https://covesa.global/
+
 [5] https://elisa.tech/
-[6] e.g.
-<https://fosdem.org/2024/events/attachments/fosdem-2024-3211-applicatio
-n-of-the-spdx-safety-profile-in-the-safety-scope-of-the-zephyr-project/slide
-s/22714/SPDX_Safety_Profile_-_Zephyr_StrictDoc_Example_4BSSrzW.pdf>
+
+[6] https://fosdem.org/2024/events/attachments/fosdem-2024-3211-application-of-the-spdx-safety-profile-in-the-safety-scope-of-the-zephyr-project/slides/22714/SPDX_Safety_Profile_-_Zephyr_StrictDoc_Example_4BSSrzW.pdf
