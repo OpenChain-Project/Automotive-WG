@@ -14,9 +14,9 @@ Our official registration page will be available in a week or two. In the meanti
 
 You can view and contribute to the provisional schedule here: [https://openchain-project.github.io/Automotive-WG/2024-09-10-workshop-agenda.html](https://openchain-project.github.io/Automotive-WG/2024-09-10-workshop-agenda.html).
 
-## About Us
+# Learn More About Us
 
-### The OpenChain Project has been building trust in the supply chain since 2016
+## The OpenChain Project has been building trust in the supply chain since 2016
 
 Our vision is a supply chain where open source is delivered with trusted and consistent process management information. Our mission is to make that happen. The OpenChain Project has an extensive global community of over 1,000 companies collaborating to make the supply chain quicker, more effective and more efficient. We work with our sister projects at The Linux Foundation like SPDX (SBOM), OpenSSF (Security), TODO Group (OSPO) and CHAOSS (Metrics) to help drive forward business management of open source.
 
