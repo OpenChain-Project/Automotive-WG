@@ -2,6 +2,8 @@
 
 ## Upcoming Events
 
+![Automotive Workshop in Stuttgart on 10th September 2024](/least-github-pages/assets/logo.png)
+
 We will hold a face-to-face meeting in Stuttgart on the 10th of September 2024 at the Bosch offices. Everyone with an interest in open source business process management in the automotive industry is invited to attend. 
 
 ### Registration
@@ -14,7 +16,7 @@ You can view and contribute to the provisional schedule here: [https://openchain
 
 ## About Us
 
-### The OpenChain Project has been building trust in the supply chain Since 2016
+### The OpenChain Project has been building trust in the supply chain since 2016
 
 Our vision is a supply chain where open source is delivered with trusted and consistent process management information. Our mission is to make that happen. The OpenChain Project has an extensive global community of over 1,000 companies collaborating to make the supply chain quicker, more effective and more efficient. We work with our sister projects at The Linux Foundation like SPDX (SBOM), OpenSSF (Security), TODO Group (OSPO) and CHAOSS (Metrics) to help drive forward business management of open source.
 
