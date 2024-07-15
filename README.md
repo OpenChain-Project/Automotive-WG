@@ -8,7 +8,7 @@ We will hold a face-to-face meeting in Stuttgart on the 10th of September 2024 a
 
 ### Registration
 
-Our official registration page will be available in a week or two. In the meantime, you are invited to express your interest by sending an email to helpdesk [at] openchainproject.org.
+Our official registration page will be available in a week or two. In the meantime, you are invited to express your interest by sending an email to [helpdesk@openchainproject.org](mailto:helpdesk@openchainproject.org).
 
 ### Agenda
 
@@ -43,4 +43,4 @@ The OpenChain Project also maintains a busy schedule of global and industry spec
 
 ## Get Help
 
-You can get help from the OpenChain Project operations team at any time by sending an email to helpdesk [at] openchainproject.org.
+You can get help from the OpenChain Project operations team at any time by sending an email to [helpdesk@openchainproject.org](mailto:helpdesk@openchainproject.org).
