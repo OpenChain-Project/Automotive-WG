@@ -21,7 +21,13 @@ The OpenChain Automotive Work Group is focused on discussion open source license
 
 # Upcoming Events
 
-We will hold a face-to-face meeting in Stuttgart on the 10th of September 2024 at the Bosch offices.
+We will hold a face-to-face meeting in Stuttgart on the 10th of September 2024 at the Bosch offices. Everyone with an interest in open source business process management in the automotive industry is invited to attend. 
+
+## Registration
+
+Our official registration page will be available in a week or two. In the meantime, you are invited to express your interest by sending an email to helpdesk [at] openchainproject.org.
+
+## Agenda
 
 You can view and contribute to the provisional schedule here: [https://openchain-project.github.io/Automotive-WG/2024-09-10-workshop-agenda.html](https://openchain-project.github.io/Automotive-WG/2024-09-10-workshop-agenda.html).
 
@@ -31,6 +37,6 @@ Everyone is welcome to be part of the OpenChain Automotive Work Group. Our main 
 
 The OpenChain Project also maintains a busy schedule of global and industry specific calls or webinars. You can find out more on the [OpenChain Participation page](https://openchainproject.org/participate).
 
-## Get Help
+# Get Help
 
 You can get help from the OpenChain Project operations team at any time by sending an email to helpdesk [at] openchainproject.org.
