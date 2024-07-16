@@ -1,6 +1,6 @@
 # Welcome to the OpenChain Automotive Work Group
 
-![Automotive Workshop in Stuttgart on 10th September 2024](/images/automotive-work-group-logo)
+![Automotive Workshop in Stuttgart on 10th September 2024](/images/automotive-work-group-logo.png)
 
 ## Upcoming Events
 
