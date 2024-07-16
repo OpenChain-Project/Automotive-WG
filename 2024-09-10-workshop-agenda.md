@@ -12,7 +12,27 @@ Bosch IT Campus in Stuttgart Feuerbach
 
 Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is being built in collaboration with the people who will attend, and therefore you should feel free to make suggestions.
 
-### Talks
+### Proposed Timing
+
+- 13:00
+  - Opening and introductions
+- 13:15
+  - 3 x talks of 15 minutes each plus 5 minutes questions
+14:15
+  - Pause for coffee
+14:45
+  - 3 x talks of 15 minutes each plus 5 minutes questions
+15:45
+  - Pause for coffee
+16:15
+  - 2 x deep dives of 30 minutes each 
+17:15
+  - Open discussion and future planning
+17:50
+  - Close and goodbyes
+
+### Current Proposed Talks
+
 - Updates to ISO/IEC 5230 and ISO/IEC 18974
   - How the proposed updates to the international standards for open source license compliance and open source security assurance impact the automotive supply chain, and how we can contribute to the process
 - Software Defined Vehicle / Eclipse SDV [1] 
