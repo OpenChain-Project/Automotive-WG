@@ -56,14 +56,14 @@ We need help getting the respective speakers for the topics.
 
 ## Footnotes
 
-[1] https://sdv.eclipse.org/
+[1] [https://sdv.eclipse.org/](https://sdv.eclipse.org/)
 
-[2] https://catena-x.net/
+[2] [https://catena-x.net/](https://catena-x.net/)
 
-[3] https://eclipse-tractusx.github.io/
+[3] [https://eclipse-tractusx.github.io/](https://eclipse-tractusx.github.io/)
 
-[4] https://covesa.global/
+[4] [https://covesa.global/](https://covesa.global/)
 
-[5] https://elisa.tech/
+[5] [https://elisa.tech/](https://elisa.tech/)
 
-[6] https://fosdem.org/2024/events/attachments/fosdem-2024-3211-application-of-the-spdx-safety-profile-in-the-safety-scope-of-the-zephyr-project/slides/22714/SPDX_Safety_Profile_-_Zephyr_StrictDoc_Example_4BSSrzW.pdf
+[6] [https://fosdem.org/2024/events/attachments/fosdem-2024-3211-application-of-the-spdx-safety-profile-in-the-safety-scope-of-the-zephyr-project/slides/22714/SPDX_Safety_Profile_-_Zephyr_StrictDoc_Example_4BSSrzW.pdf](https://fosdem.org/2024/events/attachments/fosdem-2024-3211-application-of-the-spdx-safety-profile-in-the-safety-scope-of-the-zephyr-project/slides/22714/SPDX_Safety_Profile_-_Zephyr_StrictDoc_Example_4BSSrzW.pdf)
