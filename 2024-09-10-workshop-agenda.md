@@ -1,12 +1,16 @@
-# Agenda for OpenChain Automotive Work Group
-## Face-to-Face 2024-09-10
+# OpenChain Automotive Work Group Workshop
+
+## In-Person on 2024-09-10
 
 ## Venue
 
 Bosch IT Campus in Stuttgart Feuerbach
 
-## Provisional Schedule
+## Agenda
 
+Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is being built in collaboration with the people who will attend, and therefore you should feel free to make suggestions.
+
+### Talks
 - Software Defined Vehicle / Eclipse SDV [1] 
   - How will a future software supply chain will look like and what needs to be expected with OTA-updates in the vehicles?
 - Catena-X [2] / Eclipse Tractus-X [3]
@@ -17,8 +21,6 @@ Bosch IT Campus in Stuttgart Feuerbach
   - How can the safety requirements be covered along the automotive software supply chain?
 - End-to-end (Open Source) Software Management along the supply chain, tool updates and the need of standardized interfaces
 - News/Update about regulations (EU, US, …) impacting the automotive supply chain and how OpenChain standards can help?
-
-Further suggestions?
 
 ### Help requested 
 
