@@ -2,7 +2,7 @@
 
 # OpenChain Automotive Work Group Workshop
 
-## In-Person on 2024-09-10
+## In-Person on 2024-09-10, 13:00 ~ 18:00 CEST
 
 ## Venue
 
@@ -13,6 +13,8 @@ Bosch IT Campus in Stuttgart Feuerbach
 Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is being built in collaboration with the people who will attend, and therefore you should feel free to make suggestions.
 
 ### Talks
+- Updates to ISO/IEC 5230 and ISO/IEC 18974
+  - How the proposed updates to the international standards for open source license compliance and open source security assurance impact the automotive supply chain, and how we can contribute to the process
 - Software Defined Vehicle / Eclipse SDV [1] 
   - How will a future software supply chain will look like and what needs to be expected with OTA-updates in the vehicles?
 - Catena-X [2] / Eclipse Tractus-X [3]
@@ -22,7 +24,11 @@ Please note: as with everything in the OpenChain Project, this event belongs to 
 - Linux ELISA [5] / SPDX Safety Profile [6]
   - How can the safety requirements be covered along the automotive software supply chain?
 - End-to-end (Open Source) Software Management along the supply chain, tool updates and the need of standardized interfaces
-- News/Update about regulations (EU, US, …) impacting the automotive supply chain and how OpenChain standards can help?
+- News/Update about regulations (EU, US, …) impacting the automotive supply chain and how OpenChain standards can help
+- AI Compliance in the Supply Chain 
+  - How AI BOM process management has been discussed in 2024 and what that means for the automotive industry
+- New OpenChain SBOM Study Group
+  - While multiple standards exist for creating SBOMs related to open source, there is less information about how to use SBOMs in the supply chain. We will discuss the progress of a new study group focused on that topic
 
 ### Help requested 
 

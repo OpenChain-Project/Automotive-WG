@@ -4,7 +4,7 @@
 
 ![Automotive Workshop in Stuttgart on 10th September 2024](/images/automotive-workshop.png)
 
-We will hold a face-to-face meeting in Stuttgart on the 10th of September 2024 at the Bosch offices. Everyone with an interest in open source business process management in the automotive industry is invited to attend. 
+We will hold a face-to-face meeting in Stuttgart on the 10th of September 2024 at the Bosch offices between 13:00 and 18:00 CEST. Everyone with an interest in open source business process management in the automotive industry is invited to attend. 
 
 ### Registration
 
