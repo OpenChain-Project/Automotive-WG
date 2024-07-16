@@ -1,3 +1,5 @@
+![Automotive Workshop in Stuttgart on 10th September 2024](/images/automotive-workshop.png)
+
 # OpenChain Automotive Work Group Workshop
 
 ## In-Person on 2024-09-10
