@@ -8,6 +8,10 @@
 
 Bosch IT Campus in Stuttgart Feuerbach
 
+### Registration
+
+You can register for this event through our official LF registration page. It can be access at this link: [https://cvent.me/Mg4w9o ](https://cvent.me/Mg4w9o )
+
 ## Agenda
 
 Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is being built in collaboration with the people who will attend, and therefore you should feel free to make suggestions.
@@ -52,7 +56,7 @@ Please note: as with everything in the OpenChain Project, this event belongs to 
 
 ### Help requested 
 
-We need help getting the respective speakers for the topics.
+We would appreciate volunteers as speakers for the various topics.
 
 ## Footnotes
 
