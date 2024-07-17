@@ -1,5 +1,3 @@
-# Welcome to the OpenChain Automotive Work Group
-
 ![Automotive Workshop in Stuttgart on 10th September 2024](/images/automotive-work-group-logo.png)
 
 ## Upcoming Events
@@ -10,7 +8,7 @@ We will hold a face-to-face meeting in Stuttgart on the 10th of September 2024 a
 
 ### Registration
 
-Our official registration page will be available in a week or two. In the meantime, you are invited to express your interest by sending an email to [helpdesk@openchainproject.org](mailto:helpdesk@openchainproject.org).
+You can register for this event through our official LF registration page. It can be access at this link: [https://cvent.me/Mg4w9o ](https://cvent.me/Mg4w9o )
 
 ### Agenda
 
