@@ -12,7 +12,7 @@ You can register for this event through our official LF registration page. It ca
 
 ### Agenda
 
-You can view and contribute to the provisional schedule here: [https://openchain-project.github.io/Automotive-WG/2024-09-10-workshop-agenda.html](https://openchain-project.github.io/Automotive-WG/2024-09-10-workshop-agenda.html).
+You can view and contribute to the provisional schedule here: [Our Main Stuttgart Event Page](https://openchain-project.github.io/Automotive-WG/2024-09-10-workshop-agenda.html).
 
 ## Learn More About Us
 
