@@ -50,6 +50,7 @@ We are building on recent activities in the region, especially the new Baden-Wü
 	- What needs to be considered in the automotive software supply chain when vehicles will become more and more connected?
 - Linux ELISA [5] / SPDX Safety Profile [6]
 	- How can the safety requirements be covered along the automotive software supply chain?
+		- Nicole Pappler, AlektoMetis
 - End-to-end (Open Source) Software Management along the supply chain, tool updates and the need of standardized interfaces
 - News/Update about regulations (EU, US, …) impacting the automotive supply chain and how OpenChain standards can help
 - AI Compliance in the Supply Chain 
