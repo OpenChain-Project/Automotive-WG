@@ -10,11 +10,13 @@ Bosch IT Campus in Stuttgart Feuerbach
 
 ### Registration
 
-You can register for this event through our official LF registration page. It can be access at this link: [https://cvent.me/Mg4w9o ](https://cvent.me/Mg4w9o )
+You can register for this event through our official LF registration page. It can be access at this link: [https://cvent.me/Mg4w9o](https://cvent.me/Mg4w9o)
 
 ## Agenda
 
 Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is being built in collaboration with the people who will attend, and therefore you should feel free to make suggestions.
+
+We are building on recent activities in the region, especially the new Baden-Württemberg Working Group around automotive open source. Learn more about their work [https://www.e-mobilbw.de/themen/digitalisierung/automotive-software](https://www.e-mobilbw.de/themen/digitalisierung/automotive-software)
 
 ### Proposed Timing
 
