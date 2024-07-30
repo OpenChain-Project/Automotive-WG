@@ -21,42 +21,54 @@ We are building on recent activities in the region, especially the new Baden-Wü
 ### Proposed Timing
 
 - 13:00
-  - Opening and introductions
+	- Opening and introductions
 - 13:15
-  - 3 x talks of 15 minutes each plus 5 minutes questions
+	- 3 x talks of 15 minutes each plus 5 minutes questions
 - 14:15
-  - Pause for coffee
+	- Pause for coffee
 - 14:45
-  - 3 x talks of 15 minutes each plus 5 minutes questions
+	- 3 x talks of 15 minutes each plus 5 minutes questions
 - 15:45
-  - Pause for coffee
+	- Pause for coffee
 - 16:15
-  - 2 x deep dives of 30 minutes each 
+	- 2 x deep dives of 30 minutes each 
 - 17:15
-  - Open discussion and future planning
+	- Open discussion and future planning
 - 17:50
-  - Close and goodbyes
+	- Close and goodbyes
 
 ### Current Proposed Talks
 
-- Updates to ISO/IEC 5230 and ISO/IEC 18974
-	- How the proposed updates to the international standards for open source license compliance and open source security assurance impact the automotive supply chain, and how we can contribute to the process
-- Software Defined Vehicle / Eclipse SDV [1] 
-	- How will a future software supply chain will look like and what needs to be expected with OTA-updates in the vehicles?
-- Catena-X [2] / Eclipse Tractus-X [3]
-	- Are there potential synergies with the OpenChain community and is there also a supply chain for data?
-		- Lars Geyer-Blaumeise, Cofinity-X
-- COVESA [4]
-	- What needs to be considered in the automotive software supply chain when vehicles will become more and more connected?
-- Linux ELISA [5] / SPDX Safety Profile [6]
-	- How can the safety requirements be covered along the automotive software supply chain?
-		- Nicole Pappler, AlektoMetis
-- End-to-end (Open Source) Software Management along the supply chain, tool updates and the need of standardized interfaces
-- News/Update about regulations (EU, US, …) impacting the automotive supply chain and how OpenChain standards can help
-- AI Compliance in the Supply Chain 
-	- How AI BOM process management has been discussed in 2024 and what that means for the automotive industry
-- New OpenChain SBOM Study Group
-	- While multiple standards exist for creating SBOMs related to open source, there is less information about how to use SBOMs in the supply chain. We will discuss the progress of a new study group focused on that topic
+**Regulations Impacting the Automotive Supply Chain**
+- How OpenChain standards can help
+
+**Updates to ISO/IEC 5230 and ISO/IEC 18974**
+- How the proposed updates to the international standards for open source license compliance and open source security assurance impact the automotive supply chain, and how we can contribute to the process
+
+**Software Defined Vehicle / Eclipse SDV [1]**
+- How will a future software supply chain will look like and what needs to be expected with OTA-updates in the vehicles?
+
+**Catena-X [2] / Eclipse Tractus-X [3]**
+- Are there potential synergies with the OpenChain community and is there also a supply chain for data?
+	- Lars Geyer-Blaumeise, Cofinity-X
+
+**COVESA [4]**
+- What needs to be considered in the automotive software supply chain when vehicles will become more and more connected?
+
+**Linux ELISA [5] / SPDX Safety Profile [6]**
+- How can the safety requirements be covered along the automotive software supply chain?
+	- Nicole Pappler, AlektoMetis
+
+**AI Compliance in the Supply Chain** 
+- How AI BOM process management has been discussed in 2024 and what that means for the automotive industry
+
+**New OpenChain SBOM Study Group**
+- While multiple standards exist for creating SBOMs related to open source, there is less information about how to use SBOMs in the supply chain. We will discuss the progress of a new study group focused on that topic
+
+**End-to-End (Open Source) Software Management**
+- The supply chain, tool updates and the need for standardized interfaces
+
+*(Please note, the order of the talks will adjust to create a flow, especially as new talks are suggested)*
 
 ### Help requested 
 
