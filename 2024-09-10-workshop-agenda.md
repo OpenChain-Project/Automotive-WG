@@ -31,12 +31,14 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 
 ### Proposed Talks or Deep-Dives:
 
+0. **Opening**
+	- 'Welcome back to the Automotive Work Group, and update from Toyota' by Masato Endo, Toyota
 1. **Regulations Impacting the Automotive Supply Chain**
 	- 'How OpenChain standards can help manage the United States Executive Order, NTIA Minimum Requirements, CRA and more' by Shane Coughlan, OpenChain Project
 2. **New OpenChain SBOM Study Group**
 	- While multiple standards exist for creating SBOMs related to open source, there is less information about how to use SBOMs in the supply chain. We will discuss the progress of a new study group focused on that topic
 3. **End-to-End (Open Source) Software Management**
-	- The supply chain, tool updates and the need for standardized interfaces
+	- 'The supply chain, tool updates and the need for standardized interfaces' by Marcel Kurzmann, Bosch
 4. **AI Compliance in the Supply Chain** 
 	- How AI BOM process management has been discussed in 2024 and what that means for the automotive industry
 5. **Software Defined Vehicle / [Eclipse SDV](https://sdv.eclipse.org/) / [AGL SDV-EG](https://confluence.automotivelinux.org/display/VE/SDV+EG)**
