@@ -39,13 +39,13 @@ You can register for this event through our official LF registration page. It ca
 	- The supply chain, tool updates and the need for standardized interfaces
 4. **AI Compliance in the Supply Chain** 
 	- How AI BOM process management has been discussed in 2024 and what that means for the automotive industry
-5. **Software Defined Vehicle / Eclipse SDV [1]**
+5. **Software Defined Vehicle / [Eclipse SDV](https://sdv.eclipse.org/) / [AGL SDV-EG](https://confluence.automotivelinux.org/display/VE/SDV+EG)**
 	- How will a future software supply chain will look like and what needs to be expected with OTA-updates in the vehicles?
-6. **Catena-X [2] / Eclipse Tractus-X [3]**
-	- 'Are there potential synergies with the OpenChain community and is there also a supply chain for data?' by Lars Geyer-Blaumeise, Cofinity-X
-7. **COVESA [4]**
+6. **[Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/)**
+	- 'Are there potential synergies with the OpenChain community and is there a supply chain for data?' by Lars Geyer-Blaumeise, Cofinity-X
+7. **[COVESA](https://covesa.global/)**
 	- What needs to be considered in the automotive software supply chain when vehicles will become more and more connected?
-8. **Linux ELISA [5] / SPDX Safety Profile [6]**
+8. **[Linux ELISA](https://elisa.tech/) / [SPDX Safety Profile](https://bit.ly/4eXJz21)**
 	- 'How can the safety requirements be covered along the automotive software supply chain?' by Nicole Pappler, AlektoMetis
 9. **Updates to ISO/IEC 5230 and ISO/IEC 18974**
 	- 'How the proposed updates to the international standards for open source license compliance and open source security assurance impact the automotive supply chain, and how we can contribute to the process' by Shane Coughlan, OpenChain Project
@@ -54,18 +54,4 @@ You can register for this event through our official LF registration page. It ca
 
 ### Help requested 
 
-We would appreciate volunteers as speakers for the various topics.
-
-## Footnotes
-
-[1] [https://sdv.eclipse.org/](https://sdv.eclipse.org/)
-
-[2] [https://catena-x.net/](https://catena-x.net/)
-
-[3] [https://eclipse-tractusx.github.io/](https://eclipse-tractusx.github.io/)
-
-[4] [https://covesa.global/](https://covesa.global/)
-
-[5] [https://elisa.tech/](https://elisa.tech/)
-
-[6] [https://bit.ly/4eXJz21](https://bit.ly/4eXJz21)
+We would appreciate volunteers as speakers for the various topics. 
