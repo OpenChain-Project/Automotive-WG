@@ -4,17 +4,17 @@
 
 ## In-Person on 2024-09-10, 13:00 ~ 18:00 CEST
 
-## Venue
+## Venue:
 
 Bosch IT Campus in Stuttgart Feuerbach
 
-## Agenda
+## Overview:
 
 Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is created in collaboration with the people who will attend, and therefore you should feel free to make suggestions.
 
 We are building on recent activities in the region, especially the new Baden-Württemberg Working Group around automotive open source. Learn more about their work [https://www.e-mobilbw.de/themen/digitalisierung/automotive-software](https://www.e-mobilbw.de/themen/digitalisierung/automotive-software)
 
-## Proposed Structure
+## Proposed Agenda:
 
 - 13:00: Opening and introductions
 - 13:15: 3 x talks of 15 minutes each plus 5 minutes questions
@@ -25,11 +25,11 @@ We are building on recent activities in the region, especially the new Baden-Wü
 - 17:15: Open discussion and future planning
 - 17:50: Close and goodbyes
 
-### Registration
+### Registration:
 
-You can register for this event through our official LF registration page. It can be access at this link: [https://cvent.me/Mg4w9o](https://cvent.me/Mg4w9o)
+Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me/Mg4w9o). Please register ahead of time so we can plan seating and so on.
 
-### Proposed Talks or Deep-Dives
+### Proposed Talks or Deep-Dives:
 
 1. **Regulations Impacting the Automotive Supply Chain**
 	- 'How OpenChain standards can help manage the United States Executive Order, NTIA Minimum Requirements, CRA and more' by Shane Coughlan, OpenChain Project
@@ -52,6 +52,6 @@ You can register for this event through our official LF registration page. It ca
 
 *(Please note, the order of the talks will adjust to create a flow, especially as new talks are suggested)*
 
-### Help requested 
+### Help requested:
 
 We would appreciate volunteers as speakers for the various topics. 
