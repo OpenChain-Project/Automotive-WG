@@ -31,6 +31,8 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 
 ### Proposed Talks or Deep-Dives:
 
+0. **Opening**
+	- 'Welcome back to the Automotive Work Group, and update from Toyota' by Masato Endo, Toyota
 1. **Regulations Impacting the Automotive Supply Chain**
 	- 'How OpenChain standards can help manage the United States Executive Order, NTIA Minimum Requirements, CRA and more' by Shane Coughlan, OpenChain Project
 2. **New OpenChain SBOM Study Group**
