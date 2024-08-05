@@ -14,6 +14,10 @@ Please note: as with everything in the OpenChain Project, this event belongs to 
 
 We are building on recent activities in the region, especially the new Baden-Württemberg Working Group around automotive open source. Learn more about their work [https://www.e-mobilbw.de/themen/digitalisierung/automotive-software](https://www.e-mobilbw.de/themen/digitalisierung/automotive-software)
 
+## Registration:
+
+Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me/Mg4w9o). Please register ahead of time so we can plan seating and so on.
+
 ## Proposed Agenda:
 
 - **13:00: Opening and introductions**
@@ -37,26 +41,22 @@ We are building on recent activities in the region, especially the new Baden-Wü
 		- *by Nicole Pappler, AlektoMetis*
 - **15:45: Pause for coffee and networking**
 - **16:15: 2 x deep dives of 30 minutes each**
-	- 16:15: 'ISO/IEC 5230 and ISO/IEC 18974 - How the proposed updates to the international standards for open source license compliance and open source security assurance impact the automotive supply chain, and how we can contribute to the process' 
+	- 16:15: 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain' 
 		- *Panel(?) Shane Coughlan @ OpenChain Project, Marcel Kurzmann @ Bosch, Masato Endo @ Toyota*
-	- [PENDING] - SBOM Deep Dive?
+	- [PENDING] - Software Defined Vehicle?
 - **17:15: Open discussion and future planning**
 - **17:50: Close and goodbyes**
 
-### Registration:
-
-Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me/Mg4w9o). Please register ahead of time so we can plan seating and so on.
-
 ### Other Proposed Talks or Deep-Dives Pending Speakers:
 
-1. **New OpenChain SBOM Study Group**
-	- While multiple standards exist for creating SBOMs related to open source, there is less information about how to use SBOMs in the supply chain. We will discuss the progress of a new study group focused on that topic
-2. **AI Compliance in the Supply Chain** 
-	- How AI BOM process management has been discussed in 2024 and what that means for the automotive industry
-3. **Software Defined Vehicle / [Eclipse SDV](https://sdv.eclipse.org/) / [AGL SDV-EG](https://confluence.automotivelinux.org/display/VE/SDV+EG)**
+1. **Software Defined Vehicle / [Eclipse SDV](https://sdv.eclipse.org/) / [AGL SDV-EG](https://confluence.automotivelinux.org/display/VE/SDV+EG)**
 	- How will a future software supply chain will look like and what needs to be expected with OTA-updates in the vehicles?
-4. **[COVESA](https://covesa.global/)**
+2. **[COVESA](https://covesa.global/)**
 	- What needs to be considered in the automotive software supply chain when vehicles will become more and more connected?
+3. **New OpenChain SBOM Study Group**
+	- While multiple standards exist for creating SBOMs related to open source, there is less information about how to use SBOMs in the supply chain. We will discuss the progress of a new study group focused on that topic
+4. **AI Compliance in the Supply Chain** 
+	- How AI BOM process management has been discussed in 2024 and what that means for the automotive industry
 
 *(Please note, the order of the talks will adjust to create a flow, especially as new talks are suggested)*
 
