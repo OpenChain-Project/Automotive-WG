@@ -16,25 +16,32 @@ We are building on recent activities in the region, especially the new Baden-Wü
 
 ## Proposed Agenda:
 
-- 13:00: Opening and introductions
-	- 13:00: 'Opening Greeting' by Shane Coughlan, OpenChain and Marcel Kurzmann, Bosch
+- **13:00: Opening and introductions**
+	- 13:00: 'Opening Greeting' 
+		- *by Shane Coughlan, OpenChain and Marcel Kurzmann, Bosch*
 	- 13:05: 'Round Table Introductions'
-	- 13:15: 'Welcome back to the Automotive Work Group, and update from Toyota' by Masato Endo, Toyota
-- 13:45: Regulations or Government Activity Impacting the Automotive Supply Chain - 2 x talks of 15 minutes each plus 5 minutes questions
-	- 13:45: 'How OpenChain standards can help manage the United States Executive Order, NTIA Minimum Requirements, CRA and more' by Shane Coughlan, OpenChain Project
-	- 14:05: 'The current EU approach to support the Open Source collaboration in the European Automotive Industry' by  Detlef Zerfowski, ETAS
-- 14:25: Pause for coffee and networking
-- 14:45: End-to-End (Open Source) Software Management, 3 x talks of 15 minutes each plus 5 minutes questions
-	- 14:45: 'The supply chain, tool updates and the need for standardized interfaces' by Marcel Kurzmann, Bosch
-****
-	- 15:05: '[Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/) - Are there potential synergies with the OpenChain community and is there a supply chain for data?' by Lars Geyer-Blaumeiser, Cofinity-X
-	- 15:25:[Linux ELISA](https://elisa.tech/) / [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'How can the safety requirements be covered along the automotive software supply chain?' by Nicole Pappler, AlektoMetis
-- 15:45: Pause for coffee and networking
-- 16:15: 2 x deep dives of 30 minutes each 
-	- 16:15: 'ISO/IEC 5230 and ISO/IEC 18974 - How the proposed updates to the international standards for open source license compliance and open source security assurance impact the automotive supply chain, and how we can contribute to the process' by Shane Coughlan, OpenChain Project
+	- 13:15: 'Welcome back to the Automotive Work Group, and update from Toyota'
+		- *by Masato Endo, Toyota*
+- **13:45: Government Regulations / Activity Impacting the Automotive Supply Chain**
+	- 13:45: 'How OpenChain standards can help manage the United States Executive Order, NTIA Minimum Requirements, CRA and more' 
+		- *by Shane Coughlan, OpenChain Project*
+	- 14:05: 'The current EU approach to support the Open Source collaboration in the European Automotive Industry'
+		- *by  Detlef Zerfowski, ETAS*
+- **14:25: Pause for coffee and networking**
+- **14:45: End-to-End (Open Source) Software Management**
+	- 14:45: 'The supply chain, tool updates and the need for standardized interfaces' 
+		- *by Marcel Kurzmann, Bosch*
+	- 15:05: '[Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/) - Are there potential synergies with the OpenChain community and is there a supply chain for data?' 
+		- *by Lars Geyer-Blaumeiser, Cofinity-X*
+	- 15:25:[Linux ELISA](https://elisa.tech/) / [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'How can the safety requirements be covered along the automotive software supply chain?' 
+		- *by Nicole Pappler, AlektoMetis*
+- **15:45: Pause for coffee and networking**
+- **16:15: 2 x deep dives of 30 minutes each**
+	- 16:15: 'ISO/IEC 5230 and ISO/IEC 18974 - How the proposed updates to the international standards for open source license compliance and open source security assurance impact the automotive supply chain, and how we can contribute to the process' 
+		- *Panel(?) Shane Coughlan @ OpenChain Project, Marcel Kurzmann @ Bosch, Masato Endo @ Toyota*
 	- [PENDING] - SBOM Deep Dive?
-- 17:15: Open discussion and future planning
-- 17:50: Close and goodbyes
+- **17:15: Open discussion and future planning**
+- **17:50: Close and goodbyes**
 
 ### Registration:
 
