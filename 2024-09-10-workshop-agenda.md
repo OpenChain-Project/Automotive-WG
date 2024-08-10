@@ -41,9 +41,9 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 		- *by Nicole Pappler, AlektoMetis*
 - **15:45: Pause for coffee and networking**
 - **16:15: Software Defined Vehicle**
-	- 16:15: Automotive Grade Linux and Software Defined Vehicle
+	- 16:15: Automotive Grade Linux and Software Defined Vehicle - Status and next steps
 		- *by Jan-Simon Moller, AGL*
-	- 16:35: Eclipse Kuksa and Software Defined Vehicle
+	- 16:35: Eclipse Kuksa and Software Defined Vehicle - Status and next steps
 		- *by Sebastian Schildt from ETAS / Eclipse Kuksa*
 - **16:55: Review of Core Topic**
 	- 16:45: 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain' 
