@@ -35,9 +35,9 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 - **14:45: End-to-End (Open Source) Software Management**
 	- 14:45: 'The supply chain, tool updates and the need for standardized interfaces' 
 		- *by Marcel Kurzmann, Bosch*
-	- 15:05: '[Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/) - Are there potential synergies with the OpenChain community and is there a supply chain for data?' 
+	- 15:05: [Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/) - 'Are there potential synergies with the OpenChain community and is there a supply chain for data?' 
 		- *by Lars Geyer-Blaumeiser, Cofinity-X*
-	- 15:25:[Linux ELISA](https://elisa.tech/) / [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'How can the safety requirements be covered along the automotive software supply chain?' 
+	- 15:25: [Linux ELISA](https://elisa.tech/) / [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'How can the safety requirements be covered along the automotive software supply chain?' 
 		- *by Nicole Pappler, AlektoMetis*
 - **15:45: Pause for coffee and networking**
 - **16:15: Software Defined Vehicle**
