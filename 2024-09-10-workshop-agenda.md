@@ -40,11 +40,13 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 	- 15:25:[Linux ELISA](https://elisa.tech/) / [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'How can the safety requirements be covered along the automotive software supply chain?' 
 		- *by Nicole Pappler, AlektoMetis*
 - **15:45: Pause for coffee and networking**
-- **16:15: 2 x deep dives of 30 minutes each**
-	- 16:15: 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain' 
-		- *Panel: Shane Coughlan @ OpenChain Project, Marcel Kurzmann @ Bosch, Masato Endo @ Toyota*
-	- Software Defined Vehicle: understanding market progress - Eclipse Kuksa / AGL / COVESA
+- **16:15: Software Defined Vehicle**
+	- 16:15: Automotive Grade Linux and Software Defined Vehicle
+		- *by Jan-Simon Moller, AGL*
+	- 16:25: Eclipse Kuksa and Software Defined Vehicle
 		- *by Sebastian Schildt from ETAS / Eclipse Kuksa*
+	- 16:45: 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain' 
+		- *Panel: Shane Coughlan @ OpenChain Project, Marcel Kurzmann @ Bosch, Masato Endo @ Toyota*
 - **17:15: Open discussion and future planning**
 - **17:50: Close and goodbyes**
 
