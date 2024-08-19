@@ -33,22 +33,22 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 		- *by  Detlef Zerfowski, ETAS*
 	- 14:15: 'Impact of regulations in the US on the Open Source Software Supply Chain'
 		- by Russell Eling, OSS Consultants*
-- **14:45: Pause for coffee and networking**
-- **15:15: End-to-End (Open Source) Software Management**
-	- 15:15: 'The supply chain, tool updates and the need for standardized interfaces' 
+- **14:35: Pause for coffee and networking**
+- **14:55: End-to-End (Open Source) Software Management**
+	- 14:55: 'The supply chain, tool updates and the need for standardized interfaces' 
 		- *by Marcel Kurzmann, Bosch*
-	- 15:35: [Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/) - 'Are there potential synergies with the OpenChain community and is there a supply chain for data?' 
+	- 15:15: [Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/) - 'Are there potential synergies with the OpenChain community and is there a supply chain for data?' 
 		- *by Lars Geyer-Blaumeiser, Cofinity-X*
-	- 15:55: [Linux ELISA](https://elisa.tech/) / [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'How can the safety requirements be covered along the automotive software supply chain?' 
+	- 15:35: [Linux ELISA](https://elisa.tech/) / [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'How can the safety requirements be covered along the automotive software supply chain?' 
 		- *by Nicole Pappler, AlektoMetis*
-- **16:15: Pause for coffee and networking**
-- **16:45: Software Defined Vehicle**
-	- 16:45: Automotive Grade Linux and Software Defined Vehicle - Status and next steps
+- **15:55: Pause for coffee and networking**
+- **16:25: Software Defined Vehicle**
+	- 16:25: Automotive Grade Linux and Software Defined Vehicle - Status and next steps
 		- *by Jan-Simon Moller, AGL*
-	- 17:05: Eclipse Kuksa and Software Defined Vehicle - Status and next steps
+	- 16:45: Eclipse Kuksa and Software Defined Vehicle - Status and next steps
 		- *by Sebastian Schildt, ETAS*
-- **17:25: Review of Core Topic**
-	- 17:25: 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain' 
+- **17:15: Review of Core Topic**
+	- 17:15: 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain' 
 		- *Panel: Shane Coughlan @ OpenChain Project, Marcel Kurzmann @ Bosch, Masato Endo @ Toyota*
 - **17:45: Open discussion and future planning**
 - **17:55: Close and goodbyes**
