@@ -58,8 +58,4 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 2. **AI Compliance in the Supply Chain** 
 	- How AI BOM process management has been discussed in 2024 and what that means for the automotive industry
 
-*(Please note, the order of the talks will adjust to create a flow, especially as new talks are suggested)*
-
-### Help requested:
-
-We would appreciate volunteers as speakers for the various topics. 
+*(Please note, the order of the talks will adjust to create a flow, especially as new talks are suggested)* 
