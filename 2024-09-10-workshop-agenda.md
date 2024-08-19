@@ -26,32 +26,30 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 	- 13:05: 'Round Table Introductions'
 	- 13:15: 'Welcome back to the Automotive Work Group, and update from Toyota'
 		- *by Masato Endo, Toyota*
-- **13:35: Government Regulations / Activity Impacting the Automotive Supply Chain**
-	- 13:35: 'How OpenChain standards can help manage the United States Executive Order, NTIA Minimum Requirements, CRA and more' 
+- **13:45: Government Regulations / Activity Impacting the Automotive Supply Chain**
+	- 13:45: 'How OpenChain standards can help manage the United States Executive Order, NTIA Minimum Requirements, CRA and more' 
 		- *by Shane Coughlan, OpenChain Project*
-	- 13:55: 'The current EU approach to support the Open Source collaboration in the European Automotive Industry'
+	- 14:05: 'The current EU approach to support the Open Source collaboration in the European Automotive Industry'
 		- *by  Detlef Zerfowski, ETAS*
-	- 14:15: 'Impact of regulations in the US on the Open Source Software Supply Chain'
-		- by Russell Eling, OSS Consultants*
-- **14:45: Pause for coffee and networking**
-- **15:15: End-to-End (Open Source) Software Management**
-	- 15:15: 'The supply chain, tool updates and the need for standardized interfaces' 
+- **14:25: Pause for coffee and networking**
+- **14:45: End-to-End (Open Source) Software Management**
+	- 14:45: 'The supply chain, tool updates and the need for standardized interfaces' 
 		- *by Marcel Kurzmann, Bosch*
-	- 15:35: [Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/) - 'Are there potential synergies with the OpenChain community and is there a supply chain for data?' 
+	- 15:05: [Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/) - 'Are there potential synergies with the OpenChain community and is there a supply chain for data?' 
 		- *by Lars Geyer-Blaumeiser, Cofinity-X*
-	- 15:55: [Linux ELISA](https://elisa.tech/) / [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'How can the safety requirements be covered along the automotive software supply chain?' 
+	- 15:25: [Linux ELISA](https://elisa.tech/) / [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'How can the safety requirements be covered along the automotive software supply chain?' 
 		- *by Nicole Pappler, AlektoMetis*
-- **16:15: Pause for coffee and networking**
-- **16:45: Software Defined Vehicle**
-	- 16:45: Automotive Grade Linux and Software Defined Vehicle - Status and next steps
+- **15:45: Pause for coffee and networking**
+- **16:15: Software Defined Vehicle**
+	- 16:15: Automotive Grade Linux and Software Defined Vehicle - Status and next steps
 		- *by Jan-Simon Moller, AGL*
-	- 17:05: Eclipse Kuksa and Software Defined Vehicle - Status and next steps
-		- *by Sebastian Schildt, ETAS*
-- **17:25: Review of Core Topic**
-	- 17:25: 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain' 
+	- 16:35: Eclipse Kuksa and Software Defined Vehicle - Status and next steps
+		- *by Sebastian Schildt from ETAS / Eclipse Kuksa*
+- **16:55: Review of Core Topic**
+	- 16:45: 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain' 
 		- *Panel: Shane Coughlan @ OpenChain Project, Marcel Kurzmann @ Bosch, Masato Endo @ Toyota*
-- **17:45: Open discussion and future planning**
-- **17:55: Close and goodbyes**
+- **17:25: Open discussion and future planning**
+- **17:50: Close and goodbyes**
 
 ### Other Proposed Talks or Deep-Dives Pending Speakers:
 
