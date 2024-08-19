@@ -32,7 +32,7 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 	- 13:55: 'The current EU approach to support the Open Source collaboration in the European Automotive Industry'
 		- *by  Detlef Zerfowski, ETAS*
 	- 14:15: 'Impact of regulations in the US on the Open Source Software Supply Chain'
-		- by Russell Eling, OSS Consultants*
+		- by Russ Eling, OSS Consultants*
 - **14:35: Pause for coffee and networking**
 - **14:55: End-to-End (Open Source) Software Management**
 	- 14:55: 'The supply chain, tool updates and the need for standardized interfaces' 
