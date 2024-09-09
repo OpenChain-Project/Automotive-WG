@@ -44,6 +44,7 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 - **15:55: Pause for coffee and networking**
 - **16:25: Software Defined Vehicle**
 	- 16:25: Automotive Grade Linux and Software Defined Vehicle - Status and next steps
+		- *by Dan Cauchy, AGL*
 		- *by Jan-Simon Moller, AGL*
 	- 16:45: Eclipse Kuksa and Software Defined Vehicle - Status and next steps
 		- *by Sebastian Schildt, ETAS*
