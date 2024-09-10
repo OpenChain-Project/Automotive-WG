@@ -28,7 +28,9 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 		- *by Masato Endo, Toyota*
 - **13:35: Government Regulations / Activity Impacting the Automotive Supply Chain**
 	- 13:35: 'How OpenChain standards can help manage the United States Executive Order, NTIA Minimum Requirements, CRA and more' 
+		- *by Shane Coughlan, OpenChain Project*
 	- 13:40: 'The OpenChain SBOM Study Group - Rationale and Relevance' 
+		- *by Shane Coughlan, OpenChain Project*
 	- 13:45: 'The OpenChain AI Study Group - Rationale and Relevance' 
 		- *by Shane Coughlan, OpenChain Project*
 	- 13:55: 'The current EU approach to support the Open Source collaboration in the European Automotive Industry'
