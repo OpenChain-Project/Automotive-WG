@@ -55,5 +55,5 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 		- *Panel: Shane Coughlan @ OpenChain Project, Marcel Kurzmann @ Bosch, Masato Endo @ Toyota*
 - **17:30: Open discussion and future planning**
 - **17:40: A Brief Word on Open Source IP Yesterday and Today**
-		- *by Keith Bergelt, Open Invention Network*
+	- *by Keith Bergelt, Open Invention Network*
 - **17:55: Close and Goodbye**
