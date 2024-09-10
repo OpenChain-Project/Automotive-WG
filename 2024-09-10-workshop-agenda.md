@@ -28,6 +28,8 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 		- *by Masato Endo, Toyota*
 - **13:35: Government Regulations / Activity Impacting the Automotive Supply Chain**
 	- 13:35: 'How OpenChain standards can help manage the United States Executive Order, NTIA Minimum Requirements, CRA and more' 
+	- 13:40: 'The OpenChain SBOM Study Group - Rationale and Relevance' 
+	- 13:45: 'The OpenChain AI Study Group - Rationale and Relevance' 
 		- *by Shane Coughlan, OpenChain Project*
 	- 13:55: 'The current EU approach to support the Open Source collaboration in the European Automotive Industry'
 		- *by  Detlef Zerfowski, ETAS*
@@ -51,18 +53,7 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 - **17:15: Review of Core Topic**
 	- 17:15: 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain' 
 		- *Panel: Shane Coughlan @ OpenChain Project, Marcel Kurzmann @ Bosch, Masato Endo @ Toyota*
-- **17:45: Open discussion and future planning**
-- **17:55: Close and goodbyes**
-
-### Other Proposed Talks or Deep-Dives Pending Speakers:
-
-1. **New OpenChain SBOM Study Group**
-	- While multiple standards exist for creating SBOMs related to open source, there is less information about how to use SBOMs in the supply chain. We will discuss the progress of a new study group focused on that topic
-2. **AI Compliance in the Supply Chain** 
-	- How AI BOM process management has been discussed in 2024 and what that means for the automotive industry
-
-*(Please note, the order of the talks will adjust to create a flow, especially as new talks are suggested)*
-
-### Help requested:
-
-We would appreciate volunteers as speakers for the various topics. 
+- **17:30: Open discussion and future planning**
+- **17:40: A Brief Word on Open Source IP Yesterday and Today**
+		- *by Keith Bergelt, Open Invention Network*
+- **17:55: Close and Goodbye**
