@@ -41,9 +41,9 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 - **14:55: End-to-End (Open Source) Software Management**
 	- 14:55: '[The supply chain, tool updates and the need for standardized interfaces](slides/2024-09-10-The supply chain, tool updates and the need for standardized interfaces-Marcel-Kurzmann.pdf)' 
 		- *by Marcel Kurzmann, Bosch*
-	- 15:15: [Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/) - 'Are there potential synergies with the OpenChain community and is there a supply chain for data?' 
+	- 15:15: Catena-X [1] / Eclipse Tractus-X [2] - 'Are there potential synergies with the OpenChain community and is there a supply chain for data?' 
 		- *by Lars Geyer-Blaumeiser, Cofinity-X*
-	- 15:35: [Linux ELISA](https://elisa.tech/) / [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'How can the safety requirements be covered along the automotive software supply chain?' 
+	- 15:35: Linux ELISA / SPDX Safety Profile - 'How can the safety requirements be covered along the automotive software supply chain?' 
 		- *by Nicole Pappler, AlektoMetis*
 - **15:55: Pause for coffee and networking**
 - **16:25: Software Defined Vehicle**
@@ -59,3 +59,10 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 - **17:40: A Brief Word on Open Source IP Yesterday and Today**
 	- *by Keith Bergelt, Open Invention Network*
 - **17:55: [Close and Goodbye](slides/2024-09-10 - Goodbye - Shane-Coughlan.pptx)**
+
+## Footnotes
+
+[1] [Catena-X](https://catena-x.net/) 
+[2] [Eclipse Tractus-X](https://eclipse-tractusx.github.io/)
+[3] [Linux ELISA](https://elisa.tech/) 
+[4] [SPDX Safety Profile](https://bit.ly/4eXJz21)
