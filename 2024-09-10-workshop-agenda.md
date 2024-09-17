@@ -20,26 +20,26 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 
 ## Proposed Agenda:
 
-- **13:00: [Opening and introductions](slides/2024-09-10 - Opening - Welcome - Shane-Coughlan.pptx)**
-	- 13:00: 'Opening Greeting' 
+- **13:00: Opening and introductions**
+	- 13:00: '[Opening Greeting]'(slides/2024-09-10 - Opening - Welcome - Shane-Coughlan.pptx) 
 		- *by Shane Coughlan, OpenChain and Marcel Kurzmann, Bosch*
 	- 13:05: 'Round Table Introductions'
 	- 13:15: 'Welcome back to the Automotive Work Group, and update from Toyota'
 		- *by Masato Endo, Toyota*
 - **13:35: Government Regulations / Activity Impacting the Automotive Supply Chain**
-	- 13:35: 'How OpenChain standards can help manage the United States Executive Order, NTIA Minimum Requirements, CRA and more' 
+	- 13:35: '[How OpenChain standards can help manage the United States Executive Order, NTIA Minimum Requirements, CRA and more](slides/2024-09-10 - Government Regulations - Activity Impacting the Automotive Supply Chain-Shane-Coughlan.pptx)' 
 		- *by Shane Coughlan, OpenChain Project*
-	- 13:40: 'The OpenChain SBOM Study Group - Rationale and Relevance' 
+	- 13:40: 'The OpenChain SBOM Study Group - Rationale and Relevance' (slides bundled above) 
 		- *by Shane Coughlan, OpenChain Project*
-	- 13:45: 'The OpenChain AI Study Group - Rationale and Relevance' 
+	- 13:45: 'The OpenChain AI Study Group - Rationale and Relevance'  (slides bundled above) 
 		- *by Shane Coughlan, OpenChain Project*
-	- 13:55: 'The current EU approach to support the Open Source collaboration in the European Automotive Industry'
+	- 13:55: '[The current EU approach to support the Open Source collaboration in the European Automotive Industry](slides/2024-09-10-Current EU approach to support the Open Source collaboration in the European Automotive Industry-Detlef-Zerfowski.pdf)'
 		- *by  Detlef Zerfowski, ETAS*
 	- 14:15: 'Impact of regulations in the US on the Open Source Software Supply Chain'
 		- by Russ Eling, OSS Consultants*
 - **14:35: Pause for coffee and networking**
 - **14:55: End-to-End (Open Source) Software Management**
-	- 14:55: 'The supply chain, tool updates and the need for standardized interfaces' 
+	- 14:55: '[The supply chain, tool updates and the need for standardized interfaces](slides/2024-09-10-The supply chain, tool updates and the need for standardized interfaces-Marcel-Kurzmann.pdf)' 
 		- *by Marcel Kurzmann, Bosch*
 	- 15:15: [Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/) - 'Are there potential synergies with the OpenChain community and is there a supply chain for data?' 
 		- *by Lars Geyer-Blaumeiser, Cofinity-X*
@@ -50,12 +50,12 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 	- 16:25: Automotive Grade Linux and Software Defined Vehicle - Status and next steps
 		- *by Dan Cauchy, AGL*
 		- *by Jan-Simon Moller, AGL*
-	- 16:45: Eclipse Kuksa and Software Defined Vehicle - Status and next steps
+	- 16:45: [Eclipse Kuksa and Software Defined Vehicle - Status and next steps](slides/2024-09-10-SDV - Eclipse Kuksa What is it? Compliance? What is up next?-Sebastian-Schildt.pdf)
 		- *by Sebastian Schildt, ETAS*
 - **17:15: Review of Core Topic**
-	- 17:15: 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain' 
+	- 17:15: '[ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain](slides/2024-09-10 - Core Topic-Shane-Coughlan-and-Marcel-Kurzmann-and-Masato-Endo.pptx)' 
 		- *Panel: Shane Coughlan @ OpenChain Project, Marcel Kurzmann @ Bosch, Masato Endo @ Toyota*
 - **17:30: Open discussion and future planning**
 - **17:40: A Brief Word on Open Source IP Yesterday and Today**
 	- *by Keith Bergelt, Open Invention Network*
-- **17:55: Close and Goodbye**
+- **17:55: [Close and Goodbye](slides/2024-09-10 - Goodbye - Shane-Coughlan.pptx)**
