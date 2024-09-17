@@ -57,6 +57,9 @@ Please note: where they are public, slides are linked below.
 ## Footnotes
 
 [1] [Catena-X](https://catena-x.net/) 
+
 [2] [Eclipse Tractus-X](https://eclipse-tractusx.github.io/)
+
 [3] [Linux ELISA](https://elisa.tech/) 
+
 [4] [SPDX Safety Profile](https://bit.ly/4eXJz21)
