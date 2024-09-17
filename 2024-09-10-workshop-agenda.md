@@ -2,15 +2,17 @@
 
 # OpenChain Automotive Work Group Workshop
 
-## In-Person on 2024-09-10, 13:00 ~ 18:00 CEST @ Bosch IT Campus in Stuttgart Feuerbach
+## In-Person on 2024-09-10, 13:00 ~ 18:00 CEST 
 
-## Overview:
+## Bosch IT Campus in Stuttgart Feuerbach
+
+## Context:
 
 As with everything in the OpenChain Project, this event belongs to the community. Our schedule was created in collaboration with the people who attended.
 
 We are building on recent activities in the region, especially the new Baden-Württemberg Working Group around automotive open source. Learn more about their work [https://www.e-mobilbw.de/themen/digitalisierung/automotive-software](https://www.e-mobilbw.de/themen/digitalisierung/automotive-software)
 
-## The Agenda We Used:
+## Agenda:
 
 Please note: where they are public, slides are linked below.
 
