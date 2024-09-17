@@ -20,7 +20,7 @@ Register for this event at this link: [https://cvent.me/Mg4w9o](https://cvent.me
 
 ## Proposed Agenda:
 
-- **13:00: Opening and introductions**
+- **13:00: [Opening and introductions](slides/2024-09-10 - Opening - Welcome - Shane-Coughlan.pptx)**
 	- 13:00: 'Opening Greeting' 
 		- *by Shane Coughlan, OpenChain and Marcel Kurzmann, Bosch*
 	- 13:05: 'Round Table Introductions'
