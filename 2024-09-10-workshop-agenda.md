@@ -20,7 +20,7 @@ Please note: where they are public, slides are linked below.
 	- 13:00: '[Opening Greeting](slides/2024-09-10 - Opening - Welcome - Shane-Coughlan.pptx)'
 		- *by Shane Coughlan, OpenChain and Marcel Kurzmann, Bosch*
 	- 13:05: 'Round Table Introductions'
-	- 13:15: 'Welcome back to the Automotive Work Group, and update from Toyota'
+	- 13:15: '[Welcome back to the Automotive Work Group, and update from Toyota](slides/2024-09-10-Welcome back to the Automotive Work Group, and update from Toyota-Masato-Endo.pdf)'
 		- *by Masato Endo, Toyota*
 - **13:35: Government Regulations / Activity Impacting the Automotive Supply Chain**
 	- 13:35: '[How OpenChain standards can help manage the United States Executive Order, NTIA Minimum Requirements, CRA and more](slides/2024-09-10 - Government Regulations - Activity Impacting the Automotive Supply Chain-Shane-Coughlan.pptx)' 
@@ -37,7 +37,7 @@ Please note: where they are public, slides are linked below.
 - **14:55: End-to-End (Open Source) Software Management**
 	- 14:55: '[The supply chain, tool updates and the need for standardized interfaces](slides/2024-09-10-The supply chain, tool updates and the need for standardized interfaces-Marcel-Kurzmann.pdf)' 
 		- *by Marcel Kurzmann, Bosch*
-	- 15:15: Catena-X [1] / Eclipse Tractus-X [2] - 'Are there potential synergies with the OpenChain community and is there a supply chain for data?' 
+	- 15:15: Catena-X [1] / Eclipse Tractus-X [2] - '[Are there potential synergies with the OpenChain community and is there a supply chain for data?](slides/2024-09-10-Are there potential synergies with the OpenChain community and is there a supply chain for data?-Lars Geyer-Blaumeiser.pdf)' 
 		- *by Lars Geyer-Blaumeiser, Cofinity-X*
 	- 15:35: Linux ELISA / SPDX Safety Profile - 'How can the safety requirements be covered along the automotive software supply chain?' 
 		- *by Nicole Pappler, AlektoMetis*
