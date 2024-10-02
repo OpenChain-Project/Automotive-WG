@@ -6,15 +6,13 @@ The OpenChain Automotive Work Group is focused on discussion open source license
 
 The Chair of this work group is Endo San from Toyota.
 
-## Upcoming Events:
+## Previous Events:
 
 ![Automotive Workshop in Stuttgart on 10th September 2024](/images/automotive-workshop.png)
 
-We will hold a face-to-face meeting in Stuttgart on the 10th of September 2024 at the Bosch offices between 13:00 and 18:00 CEST. Everyone with an interest in open source business process management in the automotive industry is invited to attend. 
+We held a face-to-face meeting in Stuttgart on the 10th of September 2024 at the Bosch offices.
 
-View and contribute to the provisional schedule on the [Event Page](https://openchain-project.github.io/Automotive-WG/2024-09-10-workshop-agenda.html).
-
-You can register for the event at this link: [https://cvent.me/Mg4w9o ](https://cvent.me/Mg4w9o)
+You can [review the event schedule and view many of the presentations given on its dedicated page](https://openchain-project.github.io/Automotive-WG/2024-09-10-workshop-agenda.html).
 
 ## Learn More the OpenChain Project and the Automotive Work Group:
 
