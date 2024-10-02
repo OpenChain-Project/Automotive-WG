@@ -31,7 +31,7 @@ Please note: where they are public, slides are linked below.
 		- *by Shane Coughlan, OpenChain Project*
 	- 13:55: '[The current EU approach to support the Open Source collaboration in the European Automotive Industry](slides/2024-09-10-Current EU approach to support the Open Source collaboration in the European Automotive Industry-Detlef-Zerfowski.pdf)'
 		- *by  Detlef Zerfowski, ETAS*
-	- 14:15: 'Impact of regulations in the US on the Open Source Software Supply Chain'
+	- 14:15: '[Impact of regulations in the US on the Open Source Software Supply Chain](slides/2024-09-10-Impact of regulations in the US on the Open Source Software Supply Chain-Russ-Eling.pdf)'
 		- by Russ Eling, OSS Consultants*
 - **14:35: Pause for coffee and networking**
 - **14:55: End-to-End (Open Source) Software Management**
