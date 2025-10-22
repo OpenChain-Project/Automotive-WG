@@ -2,7 +2,7 @@ ONLINE EVENT
 
 # OpenChain Automotive Work Group Workshop
 
-## Online on 2025-11-xx, 9:00 ~ 12:00 CET
+## Online on 2025-11-14, 9:00 ~ 12:00 CET
 
 ## Login-Details:
 
