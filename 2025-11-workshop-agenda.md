@@ -15,7 +15,7 @@ Please note: as with everything in the OpenChain Project, this event belongs to 
 
 ## Registration:
 
-Register for this event at this link: tbd. Please register ahead of time so we can plan seating and so on.
+Register for this event at this link: tbd.
 
 ## Proposed Agenda (times in CET):
 
