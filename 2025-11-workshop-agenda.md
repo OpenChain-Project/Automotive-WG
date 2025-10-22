@@ -30,7 +30,9 @@ Register for this event at this link: tbd.
    	- xx:xx: 'Catena-X Expert Group Software and how the new Car SBOM Standard is intended to be used in the context of new Cybersecurity regulations' [Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/)
    		- *by xxx, Catena-X Expert Group Software*
    	 - xx:xx: '[SPDX Version 3.x](https://github.com/spdx/spdx-3-model) - overview, differences to 2.x and benefits for the supply chain of switching to the new version'
-   	 	- *by xxx, SPDX Project*
+   	 	- *by Alexios Zavras, SPDX Project*
+	 - xx:xx: '[CycloneDX Version 1.7](https://cyclonedx.org/news/cyclonedx-v1.7-released/) - overview, differences to 1.6 and benefits for the supply chain of switching to the new version'
+   	 	- *by Jan Kowalleck, OWASP/CycloneDX*
   - xx:xx: 'SBOMs quo vadis? - CycloneDX, SPDX, Catena-X, Sepia - panel discussion on the current landscape'
   	- *moderated by  xxx, xxx*
 - **xx:xx: Pause**
