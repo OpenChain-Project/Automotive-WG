@@ -17,58 +17,51 @@ Please note: as with everything in the OpenChain Project, this event belongs to 
 
 This is a meeting of the OpenChain Automotive Work Group. This meeting is open to everyone, and will feature talks and discussion around tooling, the supply chain, compliance and regulatory matters. No registration required.
 
-## Proposed Agenda (times in CET):
+## Proposed Agenda (times in CET) - Timing of TOPs is still in draft mode and may be changed:
 
 - **09:00: Opening and introductions**
-	- 09:00: 'Opening Greeting' 
-		- *by Shane Coughlan, OpenChain* 
-	- 09:05: 'Round Table Introductions'
-		- *by Masato Endo, Toyota*
-- **xx:xx TOP1 SBOM activities and Cybersecurity regulations**
-	- xx:xx: 'The OpenChain [SBOM Work Group](https://lists.openchainproject.org/g/sbom) - Status'
+	- 09:00: 'Opening Greeting amd Review of Core Topic' - 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain'
+		- *by Shane Coughlan, OpenChain, Masato Endo, Toyota* 
+- **09:10 TOP1 SBOM activities and Cybersecurity regulations**
+	- 09:10: 'The OpenChain [SBOM Work Group](https://lists.openchainproject.org/g/sbom) - Status'
  		- *by Norio Kobota, OpenChain SBOM Work Group*
-   	- xx:xx: 'Catena-X Expert Group Software and how the new Car SBOM Standard is intended to be used in the context of new Cybersecurity regulations' [Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/)
+   	- 09:25: 'Catena-X Expert Group Software and how the new Car SBOM Standard is intended to be used in the context of new Cybersecurity regulations' [Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/)
    		- *by xxx, Catena-X Expert Group Software*
-   	 - xx:xx: '[SPDX Version 3.x](https://github.com/spdx/spdx-3-model) - overview, differences to 2.x and benefits for the supply chain of switching to the new version + outlook on upcoming Version 3.1 with new profiles'
+   	 - 09:40: '[SPDX Version 3.x](https://github.com/spdx/spdx-3-model) - overview, differences to 2.x and benefits for the supply chain of switching to the new version + outlook on upcoming Version 3.1 with new profiles'
    	 	- *by Alexios Zavras, SPDX Project*
-	 - xx:xx: '[CycloneDX Version 1.7](https://cyclonedx.org/news/cyclonedx-v1.7-released/) - overview, differences to 1.6 and benefits for the supply chain of switching to the new version'
+	 - 09:55: '[CycloneDX Version 1.7](https://cyclonedx.org/news/cyclonedx-v1.7-released/) - overview, differences to 1.6 and benefits for the supply chain of switching to the new version'
    	 	- *by Jan Kowalleck, OWASP/CycloneDX*
-  - xx:xx: 'SBOMs quo vadis? - CycloneDX, SPDX, Catena-X, Sepia - panel discussion on the current landscape'
+  - 10:10: 'SBOMs quo vadis? - CycloneDX, SPDX, Catena-X, Sepia - panel discussion on the current landscape'
   	- *moderated by  xxx, xxx*
-- **xx:xx: Pause**
-- **xx:xx: TOP2 SBOM, Security and Open Source Management Tooling**
-  - xx:xx: 'A publicly available supply-chain simulation based on Open Source tools - status and outlook'
+
+- **10:30: TOP2 SBOM, Security and Open Source Management Tooling**
+  - 10:30: 'A publicly available supply-chain simulation based on Open Source tools - status and outlook'
   	- *by Marcel Kurzmann, Bosch/[OpenChain Tooling Group](https://oss-compliance-tooling.org/)/[Eclipse Apoapsis](https://eclipse-apoapsis.github.io/guidance/)*
-  - FLASHLIGHTS on relevant Project Updates (x min max.)
-  - xx:xx: '[OWASP - TOP10](https://owasp.org/www-project-top-ten/) and beyond - status and outlook'
+  - FLASHLIGHTS on relevant Project Updates (5 min max.)
+  - 10:40: '[OWASP - TOP10](https://owasp.org/www-project-top-ten/) and beyond - status and outlook'
     - *by xxx, xxx*
-  - xx:xx: '[OCCTET](https://occtet.eu/) project - status and outlook'
+  - 10:45: '[OCCTET](https://occtet.eu/) project - status and outlook'
   	- *by xxx, xxx*
-  - xx:xx: '[SEPIA](https://github.com/OpenChain-Project/SBOM-sg-SEPIA/tree/main) project - status and outlook'
+  - 10:50: '[SEPIA](https://github.com/OpenChain-Project/SBOM-sg-SEPIA/tree/main) project - status and outlook'
   	- *by xxx, xxx*
-  - xx:xx: '[Eclipse Diskuo](https://projects.eclipse.org/proposals/eclipse-disuko) - SBOM-portal - status and outlook'
+  - 10:55: '[Eclipse Diskuo](https://projects.eclipse.org/proposals/eclipse-disuko) - SBOM-portal - status and outlook'
   	- *by xxx, xxx*
-  - xx:xx: '...'
+  - 11:00: '...'
     - *by xxx, xxx*
-- **xx:xx: Pause**
-- **xx:xx: TOP3 Safety Software Supply Chain**
-  - xx:xx: Functional safety in the context of an Open Source based eco-system
+- **11:10: TOP3 Safety Software Supply Chain**
+  - 11:10: Functional safety in the context of an Open Source based eco-system
   	- *by Daniel Krippner, ETAS*
    	- *by xxx, xxx*
-  - xx:xx: [Linux ELISA](https://elisa.tech/) / [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'Update on the progress'
+  - 11:20: [Linux ELISA](https://elisa.tech/) / [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'Update on the progress'
   	- *by Nicole Pappler, AlektoMetis*
-- **xx:xx: Pause**
-- **xx:xx: TOP4 Challenges of Automotive Open Source Program Offices and Business**
-  - xx:xx: [TODO Group Open Source Business Guide](https://github.com/boschglobal/ospology/tree/opensource_business_guide) - how we collaborate on win over and educate business managers / C-level
+- **11:30: TOP4 Challenges of Automotive Open Source Program Offices and Business**
+  - 11:30: [TODO Group Open Source Business Guide](https://github.com/boschglobal/ospology/tree/opensource_business_guide) - how we collaborate on win over and educate business managers / C-level
   	- *by xxx, xxx*
-  - xx:xx: [AGL OSPO Expert Group](https://lf-automotivelinux.atlassian.net/wiki/spaces/OSPO/overview) - Status and next steps
+  - 11:35: [AGL OSPO Expert Group](https://lf-automotivelinux.atlassian.net/wiki/spaces/OSPO/overview) - Status and next steps
   	- *by xxx, xxx*
-  - xx:xx: Discussion on good practices for provision of Open Source Disclosure documents along the whole supply chain down to the consumer in line with the ISO5230
+  - 11:40: Discussion on good practices for provision of Open Source Disclosure documents along the whole supply chain down to the consumer in line with the ISO5230
   	- *moderated by  xxx, xxx*  
-- **xx:xx: TOP5 Review of Core Topic**
-  - xx:xx: 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain'
-  	- *Panel: Shane Coughlan @ OpenChain Project*
-- **xx:xx: TOP6 Open discussion, future planning and closing**
-  - xx:xx: Outlook on the 2026 Open Source Events with Automotive relevance
+- **11:50: TOP5 Open discussion, future planning and closing**
+  - 11:50: Outlook on the 2026 Open Source Events with Automotive relevance
   	- *by Marcel Kurzmann, Bosch*
-- **xx:xx: Close and Goodbye**
+- **11:55: Close and Goodbye**
