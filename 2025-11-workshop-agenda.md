@@ -2,20 +2,20 @@ ONLINE EVENT
 
 # OpenChain Automotive Work Group Workshop
 
-## Online on 2025-11-14, 9:00 ~ 12:00 CET
+## Online on 2025-11-14, 9:00 ~ 12:00 CET Brussels/Europe
 
 ## Login-Details:
 
-tbd
+For details and ways to participate see Open Chain calendar: https://openchainproject.org/participate
+The meeting invite is also shared in the Open Chain Automotive workgroup mailing list: https://lists.openchainproject.org/g/automotive-wg 
 
 ## Overview:
 
 Please note: as with everything in the OpenChain Project, this event belongs to the community. Our schedule is created in collaboration with the people who will attend, and therefore you should feel free to make suggestions.
 
-
 ## Registration:
 
-Register for this event at this link: tbd.
+This is a meeting of the OpenChain Automotive Work Group. This meeting is open to everyone, and will feature talks and discussion around tooling, the supply chain, compliance and regulatory matters. No registration required.
 
 ## Proposed Agenda (times in CET):
 
@@ -26,7 +26,7 @@ Register for this event at this link: tbd.
 		- *by Masato Endo, Toyota*
 - **xx:xx TOP1 SBOM activities and Cybersecurity regulations**
 	- xx:xx: 'The OpenChain [SBOM Work Group](https://lists.openchainproject.org/g/sbom) - Status'
- 		- *by xxx, OpenChain SBOM Work Group*
+ 		- *by Norio Kobota, OpenChain SBOM Work Group*
    	- xx:xx: 'Catena-X Expert Group Software and how the new Car SBOM Standard is intended to be used in the context of new Cybersecurity regulations' [Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/)
    		- *by xxx, Catena-X Expert Group Software*
    	 - xx:xx: '[SPDX Version 3.x](https://github.com/spdx/spdx-3-model) - overview, differences to 2.x and benefits for the supply chain of switching to the new version + outlook on upcoming Version 3.1 with new profiles'
