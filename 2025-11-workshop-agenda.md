@@ -20,7 +20,7 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
 ## Proposed Agenda (times in CET) - Timing of TOPs is still in draft mode and may be changed:
 
 - **09:00: Opening and introductions**
-	- 09:00: 'Opening Greeting amd Review of Core Topic' - 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain'
+	- 09:00: 'Opening Greeting and Review of Core Topic' - 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain'
 		- *by Shane Coughlan, OpenChain, Masato Endo, Toyota* 
 - **09:10 TOP1 SBOM activities and Cybersecurity regulations**
 	- 09:10: 'The OpenChain [SBOM Work Group](https://lists.openchainproject.org/g/sbom) - Status'
