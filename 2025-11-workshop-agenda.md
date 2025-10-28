@@ -32,7 +32,7 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
 	 - 09:55: '[CycloneDX Version 1.7](https://cyclonedx.org/news/cyclonedx-v1.7-released/) - overview, differences to 1.6 and benefits for the supply chain of switching to the new version'
    	 	- *by Jan Kowalleck, OWASP/CycloneDX*
   - 10:10: 'SBOMs quo vadis? - CycloneDX, SPDX, Catena-X, Sepia - panel discussion on the current landscape'
-  	- *moderated by  xxx, xxx*
+  	- *moderated by *Shane Coughlan*
 
 - **10:30: TOP2 SBOM, Security and Open Source Management Tooling**
   - 10:30: 'A publicly available supply-chain simulation based on Open Source tools - status and outlook'
