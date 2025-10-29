@@ -21,18 +21,20 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
 
 - **09:00: Opening and introductions**
 	- 09:00: 'Opening Greeting and Review of Core Topic' - 'ISO/IEC 5230, ISO/IEC 18974 and ISO/IEC 5962 - How updates to international standards for open source license compliance, security assurance and SBOM impact the automotive supply chain'
-		- *by Shane Coughlan, OpenChain, Masato Endo, Toyota* 
+		- *by Shane Coughlan, OpenChain*
+  		- *by Masato Endo, Toyota* 
 - **09:10 TOP1 SBOM activities and Cybersecurity regulations**
 	- 09:10: 'The OpenChain [SBOM Work Group](https://lists.openchainproject.org/g/sbom) - Status'
- 		- *by Ayumi Watanabe, Hitachi-Solutions, Norio Kobota, OpenChain SBOM Work Group*
+ 		- *by Ayumi Watanabe, Hitachi-Solutions*
+   		- *by Norio Kobota, Sony/OpenChain SBOM Work Group*
    	- 09:25: 'Catena-X Expert Group Software and how the new Car SBOM Standard is intended to be used in the context of new Cybersecurity regulations' [Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/)
    		- *by Marvin Hubl, Catena-X Expert Group Software Lead*
    	 - 09:40: '[SPDX Version 3.x](https://github.com/spdx/spdx-3-model) - overview, differences to 2.x and benefits for the supply chain of switching to the new version + outlook on upcoming Version 3.1 with new profiles'
-   	 	- *by Alexios Zavras, SPDX Project*
+   	 	- *by Alexios Zavras, Intel/SPDX Project*
 	 - 09:55: '[CycloneDX Version 1.7](https://cyclonedx.org/news/cyclonedx-v1.7-released/) - overview, differences to 1.6 and benefits for the supply chain of switching to the new version'
    	 	- *by Jan Kowalleck, OWASP/CycloneDX*
   - 10:10: 'SBOMs quo vadis? - CycloneDX, SPDX, Catena-X, Sepia - panel discussion on the current landscape'
-  	- *moderated by *Shane Coughlan*
+  	- *moderated by Shane Coughlan*
 
 - **10:30: TOP2 SBOM, Security and Open Source Management Tooling**
   - 10:30: 'A publicly available supply-chain simulation based on Open Source tools - status and outlook'
@@ -45,7 +47,8 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
   - 10:50: '[SEPIA](https://github.com/OpenChain-Project/SBOM-sg-SEPIA/tree/main) project - status and outlook'
   	- *by xxx, xxx*
   - 10:55: '[Eclipse Disuko](https://projects.eclipse.org/proposals/eclipse-disuko) - SBOM-portal - status and outlook'
-  	- *by David Schumm, Christian Wege, Mercedes Benz*
+  	- *by David Schumm, Mercedes Benz*
+    - *by Christian Wege, Mercedes Benz*
   - 11:00: '...'
     - *by xxx, xxx*
 - **11:10: TOP3 Safety Software Supply Chain**
@@ -63,5 +66,5 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
   	- *moderated by  xxx, xxx*  
 - **11:50: TOP5 Open discussion, future planning and closing**
   - 11:50: Outlook on the 2026 Open Source Events with Automotive relevance
-  	- *by Marcel Kurzmann, Bosch*
+  	- *by Marcel Kurzmann, Bosch/OpenChain*
 - **11:55: Close and Goodbye**
