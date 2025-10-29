@@ -44,7 +44,7 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
   	- *by xxx, xxx*
   - 10:50: '[SEPIA](https://github.com/OpenChain-Project/SBOM-sg-SEPIA/tree/main) project - status and outlook'
   	- *by xxx, xxx*
-  - 10:55: '[Eclipse Diskuo](https://projects.eclipse.org/proposals/eclipse-disuko) - SBOM-portal - status and outlook'
+  - 10:55: '[Eclipse Disuko](https://projects.eclipse.org/proposals/eclipse-disuko) - SBOM-portal - status and outlook'
   	- *by David Schumm, Christian Wege, Mercedes Benz*
   - 11:00: '...'
     - *by xxx, xxx*
