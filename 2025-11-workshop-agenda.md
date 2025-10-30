@@ -25,9 +25,9 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
   		- *by Masato Endo, Toyota* 
 
 - ~**09:10 TOP1 SBOM activities and Cybersecurity regulations**
-	- 09:10: 'The OpenChain [SBOM Work Group](https://lists.openchainproject.org/g/sbom) - Status'
- 		- *by Ayumi Watanabe, Hitachi-Solutions*
-   		- *by Norio Kobota, Sony/OpenChain SBOM Work Group*
+	- 09:10: ''SBOM Implementation - status of SBOM Quality Guide and Automotive SBOM' 
+ 		- *by Norio Kobota, Sony/OpenChain [SBOM Work Group](https://lists.openchainproject.org/g/sbom)*
+   		- *by Ayumi Watanabe, Hitachi-Solutions*
    	- 09:30: 'Catena-X Expert Group Software and how the new Car SBOM Standard is intended to be used in the context of new Cybersecurity regulations' [Catena-X](https://catena-x.net/) / [Eclipse Tractus-X](https://eclipse-tractusx.github.io/)
    		- *by Marvin Hubl, Catena-X Expert Group Software Lead*
    	 - 09:45: '[SPDX Version 3.x](https://github.com/spdx/spdx-3-model) - overview, differences to 2.x and benefits for the supply chain of switching to the new version + outlook on upcoming Version 3.1 with new profiles'
