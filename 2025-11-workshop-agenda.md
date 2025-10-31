@@ -35,18 +35,18 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
 	 - 10:00: '[CycloneDX Version 1.7](https://cyclonedx.org/news/cyclonedx-v1.7-released/) - overview, differences to 1.6 and benefits for the supply chain of switching to the new version'
    	 	- *by Jan Kowalleck, OWASP/CycloneDX*
   - 10:15: 'SBOMs quo vadis? - CycloneDX, SPDX, Catena-X, Sepia - panel discussion on the current landscape'
-  	- *moderated by Shane Coughlan*
+  	- *moderated by Chloe Zhong*
 
 - ~**10:35: TOP2 SBOM, Security and Open Source Management Tooling**
   - 10:35: 'A publicly available supply-chain simulation based on Open Source tools - status and outlook'
   	- *by Marcel Kurzmann, Bosch/[OpenChain Tooling Group](https://oss-compliance-tooling.org/)/[Eclipse Apoapsis](https://eclipse-apoapsis.github.io/guidance/)*
   - FLASHLIGHTS on relevant Project Updates (5 min max.)
-  - 10:45: '[OWASP - TOP10](https://owasp.org/www-project-top-ten/) and beyond - status and outlook'
+  - 10:45: 'Cybersecurity tools for automotive and beyond - status and outlook'
     - *by xxx, xxx*
   - 10:50: '[OCCTET](https://occtet.eu/) project - status and outlook'
   	- *by xxx, xxx*
   - 10:55: '[SEPIA](https://github.com/OpenChain-Project/SBOM-sg-SEPIA/tree/main) project - status and outlook'
-  	- *by xxx, xxx*
+  	- *by Rakesh Prabhakaran, Bosch Global Software Technologies*
   - 11:00: '[Eclipse Disuko](https://projects.eclipse.org/proposals/eclipse-disuko) - SBOM-portal - status and outlook'
   	- *by David Schumm, Mercedes Benz*
     - *by Christian Wege, Mercedes Benz*
@@ -60,7 +60,7 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
    
 - ~**11:30: TOP4 Challenges of Automotive Open Source Program Offices and Business**
   - 11:30: [TODO Group Open Source Business Guide](https://github.com/boschglobal/ospology/tree/opensource_business_guide) - how we collaborate on win over and educate business managers / C-level
-  	- *by xxx, xxx*
+  	- *by Sven Erik Jeroschewski, Bosch*
   - 11:35: [AGL OSPO Expert Group](https://lf-automotivelinux.atlassian.net/wiki/spaces/OSPO/overview) - Status and next steps
   	- *by xxx, xxx*
   - 11:40: Discussion on good practices for provision of Open Source Disclosure documents along the whole supply chain down to the consumer in line with the ISO5230
