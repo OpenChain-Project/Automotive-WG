@@ -64,7 +64,7 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
   - 11:35: [AGL OSPO Expert Group](https://lf-automotivelinux.atlassian.net/wiki/spaces/OSPO/overview) - Status and next steps
   	- *by xxx, xxx*
   - 11:40: Discussion on good practices for provision of Open Source Disclosure documents along the whole supply chain down to the consumer in line with the ISO5230
-  	- *moderated by  xxx, xxx*  
+  	- *moderated by  Sarah Moser, ZF*  
 
 - ~**11:50: TOP5 Open discussion, future planning and closing**
   - 11:50: Outlook on the 2026 Open Source Events with Automotive relevance
