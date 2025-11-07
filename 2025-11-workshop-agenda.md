@@ -44,7 +44,7 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
   - 10:45: 'Cybersecurity tools for automotive and beyond - status and outlook'
     - *by Dirk Targoni, [ASRG.io](https://asrg.io/) - Chapter Stuttgart*
   - 10:50: '[OCCTET](https://occtet.eu/) project - status and outlook'
-  	- *by xxx, xxx*
+  	- *by Sebastien Heurtematte, Eclipse Foundation*
   - 10:55: '[SEPIA](https://github.com/OpenChain-Project/SBOM-sg-SEPIA/tree/main) project - status and outlook'
   	- *by Rakesh Prabhakaran, Bosch Global Software Technologies*
   - 11:00: '[Eclipse Disuko](https://projects.eclipse.org/proposals/eclipse-disuko) - SBOM-portal - status and outlook'
