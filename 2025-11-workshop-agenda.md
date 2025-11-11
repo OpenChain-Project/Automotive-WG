@@ -36,6 +36,7 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
    	 	- *by Jan Kowalleck, OWASP/CycloneDX*
   - 10:15: 'SBOMs quo vadis? - panel discussion on the current landscape'
   	- *moderated by Chloe Zhong*
+   - potential follow up in https://lists.openchainproject.org/g/sbom
 
 - ~**10:35: TOP2 SBOM, Security and Open Source Management Tooling**
   - 10:35: 'A publicly available supply-chain simulation based on Open Source tools - status and outlook'
@@ -50,6 +51,7 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
   - 11:00: '[Eclipse Disuko](https://projects.eclipse.org/proposals/eclipse-disuko) - SBOM-portal - status and outlook'
   	- *by David Schumm, Mercedes Benz*
     - *by Christian Wege, Mercedes Benz*
+  - potential follow up in https://groups.io/g/oss-based-compliance-tooling
 
 - ~**11:10: TOP3 Safety Software Supply Chain**
   - 11:10: Functional safety in the context of an Open Source based eco-system
@@ -64,7 +66,8 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
   - 11:35: [AGL OSPO Expert Group](https://lf-automotivelinux.atlassian.net/wiki/spaces/OSPO/overview) - Status and next steps
   	- *by Endo Masato, Toyota*
   - 11:40: Discussion on good practices for provision of Open Source Disclosure documents along the whole supply chain down to the consumer in line with the ISO5230
-  	- *moderated by  Sarah Moser, ZF*  
+  	- *moderated by  Sarah Moser, ZF*
+   - potential follow up in https://lists.openchainproject.org/g/education
 
 - ~**11:50: TOP5 Open discussion, future planning and closing**
   - 11:50: Outlook on the 2026 Open Source Events with Automotive relevance
