@@ -34,7 +34,7 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
    	 	- *by Alexios Zavras, Intel/SPDX Project*
 	 - 10:00: '[CycloneDX Version 1.7](https://cyclonedx.org/news/cyclonedx-v1.7-released/) - overview, differences to 1.6 and benefits for the supply chain of switching to the new version'
    	 	- *by Jan Kowalleck, OWASP/CycloneDX*
-  - 10:15: 'SBOMs quo vadis? - CycloneDX, SPDX, Catena-X, Sepia - panel discussion on the current landscape'
+  - 10:15: 'SBOMs quo vadis? - panel discussion on the current landscape'
   	- *moderated by Chloe Zhong*
 
 - ~**10:35: TOP2 SBOM, Security and Open Source Management Tooling**
@@ -62,7 +62,7 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
   - 11:30: [TODO Group Open Source Business Guide](https://github.com/boschglobal/ospology/tree/opensource_business_guide) - how we collaborate on win over and educate business managers / C-level
   	- *by Sven Erik Jeroschewski, Bosch*
   - 11:35: [AGL OSPO Expert Group](https://lf-automotivelinux.atlassian.net/wiki/spaces/OSPO/overview) - Status and next steps
-  	- *by xxx, xxx*
+  	- *by Endo Masato, Toyota*
   - 11:40: Discussion on good practices for provision of Open Source Disclosure documents along the whole supply chain down to the consumer in line with the ISO5230
   	- *moderated by  Sarah Moser, ZF*  
 
