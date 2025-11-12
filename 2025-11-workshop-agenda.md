@@ -55,10 +55,12 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
 
 - ~**11:10: TOP3 Safety Software Supply Chain**
   - 11:10: Functional safety in the context of an Open Source based eco-system
-  	- *by Daniel Krippner, ETAS*
+  	- *by Daniel Krippner, ETAS GmbH*
    	- *by Kaspar Matas, Codethink*
-  - 11:20: [Linux ELISA](https://elisa.tech/) / [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'Update on the progress'
+  - 11:20: [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'Update on the progress'
   	- *by Nicole Pappler, AlektoMetis*
+  - 11:25: '[Linux ELISA](https://elisa.tech/) - [SPDX-Requirements in the Linux Kernel Status](./slides/2025-11-14_ELISA-Linux-SPDX-Requirements_Philipp-Ahmann.pdf)'
+    - *by Philipp Ahmann, ETAS GmbH*
    
 - ~**11:30: TOP4 Challenges of Automotive Open Source Program Offices and Business**
   - 11:30: [TODO Group Open Source Business Guide](https://github.com/boschglobal/ospology/tree/opensource_business_guide) - how we collaborate on win over and educate business managers / C-level
