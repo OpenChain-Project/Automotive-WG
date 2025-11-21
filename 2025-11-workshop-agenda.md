@@ -54,7 +54,7 @@ This is a meeting of the OpenChain Automotive Work Group. This meeting is open t
   - potential follow up in https://groups.io/g/oss-based-compliance-tooling
 
 - ~**11:10: TOP3 Safety Software Supply Chain**
-  - 11:10: Functional safety in the context of an Open Source based eco-system
+  - 11:10: [Functional safety in the context of an Open Source based ecosystem](./slides/2025-11-14-OpenChain-Automotive-WG-TSF)
   	- *by Daniel Krippner, ETAS GmbH*
    	- *by Kaspar Matas, Codethink*
   - 11:20: [SPDX Safety Profile](https://bit.ly/4eXJz21) - 'Update on the progress'
